@@ -1,1 +1,15 @@
 /*  your css code here. If applicable */
+.book-library{
+	background-color:#ffffff;
+	text-align:center;
+}
+.book{
+	align-items:center;
+}
+.p1{
+	color: #777777;
+}
+.p2{
+	background-color: #2ecc71;
+	color:white;
+}
