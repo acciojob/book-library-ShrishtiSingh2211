@@ -4,7 +4,9 @@
 	text-align:center;
 }
 .book{
-	align-items:center;
+    background-color: #f8f8f8;
+	border-radius:10px;
+	
 }
 .p1{
 	color: #777777;
@@ -12,4 +14,5 @@
 .p2{
 	background-color: #2ecc71;
 	color:white;
+	
 }
